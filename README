@@ -1,6 +1,7 @@
-This is your new Play application
-=====================================
+This is my new play application
+===============================
 
-This file will be packaged with your application, when using `play dist`.
+From today, I started real dev with playframework
+But It was all based on Configuration which was as awful as fuck!
 
-
+So, Lets dig in!
